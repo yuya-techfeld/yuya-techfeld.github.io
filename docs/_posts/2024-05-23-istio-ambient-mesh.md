@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Istio Mastery ⛵ Sidercar-Less with Ambient Mesh
+title: Service Mesh 🌐 Sidercar-Less with Ambient Mesh
 
 tags: ["tech", "microservices", "service-mesh"]
 mathjax: true

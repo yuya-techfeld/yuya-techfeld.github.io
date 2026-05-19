@@ -8,14 +8,16 @@ layout: page
 	</div>
 	<div class="home-info-text">
 		<h1>Yuya Tinnefeld</h1>
-		<p style="font-size: 14px;">"We can't control the ocean, but we can learn how to surf the waves."</p>
+		<p style="font-size: 14px;">"We can’t control the ocean, but we can ride the waves."</p>
 	</div>
 </div><br>
 
 ### My Story
-As a DevOps Engineer, I am passionate about <b>infrastructure</b> and <b>cloud technology</b>. My expertise lies in automating infrastructure deployment, managing continuous integration and delivery, and streamlining application deployment processes. I always loved the tickle of excitement that you get, when you jump heads on into a new project. While diving deeper into this versatile technologies, it just amazes me over and over again.
+As a Service Mesh Platform Engineer, I am passionate about infrastructure, cloud technologies, and of course service mesh. My expertise lies in automating infrastructure deployments, working with service mesh technologies, managing continuous integration and delivery pipelines, and streamlining application delivery processes.
 
-When I'm not working, I enjoy spending time outdoors, surfing the waves or camping in the wilderness. One of my favorite places in the world is the <b> ocean</b>. There is something incredibly awe-inspiring about the vastness and power of the ocean, and I find myself drawn to its beauty and mystery. Whether I'm surfing, swimming, or simply walking along the beach, I always feel a sense of peace and joy when I'm near the water.
+I’ve always enjoyed the sense of excitement that comes with diving headfirst into a new project. The deeper I go into these versatile technologies, the more I find myself amazed by them.
+
+When I’m not working, I enjoy spending time outdoors—surfing waves or camping in the wilderness. One of my favorite places in the world is the ocean. There is something incredibly awe-inspiring about its vastness and power.
 
 ### IT Skills
 

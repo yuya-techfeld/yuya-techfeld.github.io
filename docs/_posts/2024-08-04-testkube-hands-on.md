@@ -175,5 +175,5 @@ minikube delete --purge
 ```
 
 ## ℹ️ Summary
-TestKube is an efficient tool for integrating with various CI/CD pipelines. By using Kubernetes Custom Resource Definitions (CRDs), TestKube offers a cloud-native method for managing and running tests. This article highlighted TestKube's core features and demonstrated a basic test setup. With its support for complex testing scenarios and custom executors, TestKube provides extensive flexibility. In the next session, we'll explore how to integrate alerting with webhooks. Stay tuned!
+TestKube is an efficient tool for integrating with various CI/CD pipelines. By using Kubernetes Custom Resource Definitions (CRDs), TestKube offers a cloud-native method for managing and running tests. This article highlighted TestKube's core features and demonstrated a basic test setup. With its support for complex testing scenarios and custom executors, TestKube provides extensive flexibility.
 
