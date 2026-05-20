@@ -7,7 +7,7 @@ layout: page
 		<img src="/images/yuyatinnefeld.png" class="profile-pic">
 	</div>
 	<div class="home-info-text">
-		<h1>yuya's tech notes</h1>
+		<h1>yuya tinnefeld</h1>
 		<p style="font-size: 14px;">"We can’t control the ocean, but we can ride the waves."</p>
 	</div>
 </div><br>
