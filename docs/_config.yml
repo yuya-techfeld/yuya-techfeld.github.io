@@ -10,8 +10,7 @@ relative_url: true
 navbar-links:
   About: "/aboutme"
   Tech: "/blog/main"
-  Private:
-      url: "https://yuyatinnefeld.com"
+  Private: "https://yuyatinnefeld.com"
   CV: "/files/cv.pdf"
   職務経歴: "/files/cv.pdf"
 
