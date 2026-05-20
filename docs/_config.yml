@@ -5,10 +5,13 @@ title: yuya's tech notes
 
 author: Yuya Tinnefeld
 
+relative_url: true
+
 navbar-links:
   About: "/aboutme"
   Tech: "/blog/main"
-  Private: "https://yuyatinnefeld.com"
+  Private:
+      url: "https://yuyatinnefeld.com"
   CV: "/files/cv.pdf"
   職務経歴: "/files/cv.pdf"
 

@@ -12,12 +12,12 @@ layout: page
 	</div>
 </div><br>
 
-### My Story
+### my story
 As a Service Mesh Platform Engineer, I am working within a large-scale banking environment, helping to build and operate Service Mesh as service and reliable hybrid cloud platforms that support enterprise-grade applications and critical financial services. My expertise lies in automating infrastructure deployments, working with service mesh technologies, managing continuous integration and delivery pipelines, and streamlining application delivery processes.
 
 I’ve always enjoyed the sense of excitement that comes with diving headfirst into a new project. The deeper I go into these versatile technologies, the more I find myself amazed by them. When I’m not working, I enjoy spending time outdoors—surfing waves or camping in the wilderness. One of my favorite places in the world is the ocean. There is something incredibly awe-inspiring about its vastness and power.
 
-### IT Skills
+### certification
 
 <div class="three-columns">
 	<div class="column_4" data-iframe-width="150" data-iframe-height="240" data-share-badge-id="4ae88676-0b8c-469d-96fd-7aa63d4ef315" data-share-badge-host="https://www.credly.com"></div>
