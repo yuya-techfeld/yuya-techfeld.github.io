@@ -4,7 +4,7 @@ layout: page
 
 <div class="home-info-container">
 	<div class="home-img-container">
-		<img src="/images/yuyatinnefeld.png">
+		<img src="/images/yuyatinnefeld.png" class="profile-pic">
 	</div>
 	<div class="home-info-text">
 		<h1>Yuya Tinnefeld</h1>
@@ -13,11 +13,9 @@ layout: page
 </div><br>
 
 ### My Story
-As a Service Mesh Platform Engineer, I am passionate about infrastructure, cloud technologies, and of course service mesh. My expertise lies in automating infrastructure deployments, working with service mesh technologies, managing continuous integration and delivery pipelines, and streamlining application delivery processes.
+As a Service Mesh Platform Engineer, I am working within a large-scale banking environment, helping to build and operate Service Mesh as service and reliable hybrid cloud platforms that support enterprise-grade applications and critical financial services. My expertise lies in automating infrastructure deployments, working with service mesh technologies, managing continuous integration and delivery pipelines, and streamlining application delivery processes.
 
-I’ve always enjoyed the sense of excitement that comes with diving headfirst into a new project. The deeper I go into these versatile technologies, the more I find myself amazed by them.
-
-When I’m not working, I enjoy spending time outdoors—surfing waves or camping in the wilderness. One of my favorite places in the world is the ocean. There is something incredibly awe-inspiring about its vastness and power.
+I’ve always enjoyed the sense of excitement that comes with diving headfirst into a new project. The deeper I go into these versatile technologies, the more I find myself amazed by them. When I’m not working, I enjoy spending time outdoors—surfing waves or camping in the wilderness. One of my favorite places in the world is the ocean. There is something incredibly awe-inspiring about its vastness and power.
 
 ### IT Skills
 
