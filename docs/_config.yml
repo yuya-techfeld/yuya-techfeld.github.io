@@ -1,14 +1,15 @@
 # Set theme
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
-title: Yuya Tinnefeld
+title: Yuya's Tech Blog
 
 author: Yuya Tinnefeld
 
 navbar-links:
   About: "/aboutme"
   CV: "/files/cv.pdf"
-  Blog: "/blog/main"
+  Tech Blog: "/blog/main"
+  Private Blog: "yuyatinnefeld.com"
   職務経歴: "/files/cv.pdf"
 
 social-network-links:
