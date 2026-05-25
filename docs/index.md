@@ -10,7 +10,7 @@ layout: home
 		<img src="/images/yuyatinnefeld.png">
 	</div>
 	<div class="home-info-text">
-		<h1>Yuya's tech notes</h1>
+		<h1>yuya's tech notes</h1>
 		<p style="font-size: 14px;">"We can’t control the ocean, but we can ride the waves."</p>
 	</div>
 

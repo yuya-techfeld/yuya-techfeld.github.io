@@ -5,4 +5,4 @@ tags: ["private"]
 mathjax: true
 ---
 
-For some time now, I have been desiring to create a personal website. This would be a place where I can store various files and documents, and potentially host a blog where I can freely express my personal and professional thoughts.
+For some time, I have been planning to build a personal website as a central place to organize and store selected documents and materials. In addition, I aim to use it as a platform for a blog where I can share both personal reflections and professional insights in a structured and accessible way.

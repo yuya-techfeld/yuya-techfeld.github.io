@@ -12,10 +12,12 @@ layout: page
 	</div>
 </div><br>
 
-### my story
-As a Service Mesh Platform Engineer, I am working within a large-scale banking environment, helping to build and operate Service Mesh as service and reliable hybrid cloud platforms that support enterprise-grade applications and critical financial services. My expertise lies in automating infrastructure deployments, working with service mesh technologies, managing continuous integration and delivery pipelines, and streamlining application delivery processes.
+### Hi 👋
+As a Service Mesh Platform Engineer in a large-scale banking environment, I build and operate Service Mesh–as-a-Service and hybrid cloud platforms for enterprise-grade and mission-critical applications. My focus is on automating infrastructure, working with service mesh technologies, and improving CI/CD pipelines to streamline application delivery.
 
-I’ve always enjoyed the sense of excitement that comes with diving headfirst into a new project. The deeper I go into these versatile technologies, the more I find myself amazed by them. When I’m not working, I enjoy spending time outdoors—surfing waves or camping in the wilderness. One of my favorite places in the world is the ocean. There is something incredibly awe-inspiring about its vastness and power.
+I enjoy diving into new projects and exploring modern infrastructure challenges. The deeper I go into these technologies, the more I appreciate their complexity and potential. Outside of work, I spend my time surfing or camping in nature. [Private Blog](https://yuyatinnefeld.com){:target="_blank"}
+
+I’m always happy to connect and support interesting projects or collaborations—feel free to reach out.
 
 ### certification
 
