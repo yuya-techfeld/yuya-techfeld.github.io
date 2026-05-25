@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Service Mesh 🌐 MultiCluster Setup
+title: Service Mesh 🌐 Istio MultiCluster Setup
 
 tags: ["tech", "microservices", "service-mesh"]
 mathjax: true
