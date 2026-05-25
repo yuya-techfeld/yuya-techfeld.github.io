@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Service Mesh 🌐 Istio Deep Dive
+title: Service Mesh 🌐 Istio Deep Dive pt 1
 
 tags: ["tech", "microservices", "service-mesh"]
 mathjax: true

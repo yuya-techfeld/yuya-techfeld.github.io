@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Istio  Advanced ⛵ Session 4 - Control Plane (Discovery)
+title: Service Mesh 🌐 Istio Deep Dive pt 2
 
 tags: ["tech", "microservices", "service-mesh"]
 mathjax: true
